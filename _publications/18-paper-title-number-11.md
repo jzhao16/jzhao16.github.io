@@ -5,7 +5,7 @@ permalink: /publication/10/1/18-paper-title-number-11
 date: 12/1/18
 venue: 'ACS Nano'
 paperurl: 'https://pubs.acs.org/doi/abs/10.1021/acsnano.8b07150'
-citation: '<u>Jing Zhao</u>, Hanquan Su, Greg Vansuch, Zheng Liu, Khalid Salaita*, R. Brian Dyer*,  <strong><i>ACS Nano</i></strong>, 2018, ASAP'
+citation: '<u>Jing Zhao</u>, Hanquan Su, Greg Vansuch, Zheng Liu, Khalid Salaita*, R. Brian Dyer*,  <strong><i>ACS Nano</i></strong>, 2019, 13, 1, pp 515–525'
 toc: '/images/TOC/ACS-Nano.png'
 ---
 

@@ -10,17 +10,13 @@ redirect_from:
 
 {% include base_path %}
 
-Research Scientist with 8+ years of experience in biomedical research, innovation strategy and solution design. A long-term tech-innovation and tech-transfer follower. Data-driven and innovative out-of-box thinker and problem solver by applying cutting-edge machine learning and artificial intelligence techniques. 
+5+ years of experience in **Data Science**, **Data Engineering** and **Software Development** in the SaaS development setup. Extensive development experience in building **Machine Learning**, **Deep Learning** and **Reinforcement Learning** models for recommender system at scale, facilitated by its deployment at the Big Data Ecosystem.
 
-* Data Science / Data Visualization
-	* Programming Languages : Python, R, SQL, Java, HTML/CSS, Javascript.  
-	* Platform (Jupyter-Notebook, R Studio, Mathematica). 
-    * Machine Learning, Statistical Learning, Deep Learning and Mathematical Modeling. 
-
-* Web Development 
-	* Web Frameworks : Django, Flask.
-	* Front-end : HTML/CSS, Javascript, Bootstrap.
-	* Back-end : PostgreSQL, MySQL, SQLite.
+* Programming Languages : Python, R, SQL, Java, Scala, Unix Shell, HTML/CSS, Javascript.
+* Machine Learning / Deep Learning : Scikit-Learn, Pandas, Numpy, TensorFlow, Keras and PyTorch.
+* Big Data Ecosystem: HDFS, Hive, Impala, Pig, Spark (Spark SQL, Spark MLlib, GraphX), Oozie, Airflow.
+* Back-End Database: PostgreSQL, MySQL, SQLite.
+* Web Frameworks : Django, Flask, Tornado, FastAPI.
 
 
 <!--
