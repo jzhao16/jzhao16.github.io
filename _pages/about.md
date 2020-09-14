@@ -12,9 +12,9 @@ redirect_from:
 
 5+ years of experience in **Data Science**, **Data Engineering** and **Software Development** in the SaaS development setup. Extensive development experience in building **Machine Learning**, **Deep Learning** and **Reinforcement Learning** models for recommender system at scale, facilitated by its deployment at the Big Data Ecosystem.
 
-* Programming Languages : Python, R, SQL, Java, Scala, Unix Shell, HTML/CSS, Javascript.
-* Machine Learning / Deep Learning : Scikit-Learn, Pandas, Numpy, TensorFlow, Keras and PyTorch.
-* Big Data Ecosystem: HDFS, Hive, Impala, Pig, Spark (Spark SQL, Spark MLlib, GraphX), Oozie, Airflow.
+* Programming Languages : Python, R, SQL, Java, Scala, Unix Shell.
+* Machine Learning / Deep Learning : Scikit-Learn, Pandas, Numpy, TensorFlow and Keras.
+* Big Data Ecosystem: HDFS, Hive, Pig, Spark (Spark SQL, Spark MLlib, GraphX), Oozie.
 * Back-End Database: PostgreSQL, MySQL, SQLite.
 * Web Frameworks : Django, Flask, Tornado, FastAPI.
 

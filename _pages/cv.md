@@ -17,9 +17,9 @@ redirect_from:
 
 ## Work Experience
 
-* Data Scientist | CareerBuilder | May 2019 - Present
-* Licensing-Track Intern | Office of Technology Transfer, Emory University | August 2018 - May 2019
-* Postdoctoral Research Fellow | Emory University | June 2016 - May 2019
+* Data Scientist @ CareerBuilder, May 2019 - Present
+* Licensing-Track Intern @ Emory Office of Technology Transfer, August 2018 - May 2019
+* Postdoctoral Research Fellow @ Emory University, June 2016 - May 2019
   
 <!--
 
