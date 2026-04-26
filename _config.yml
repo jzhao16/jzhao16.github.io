@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Jing Zhao"
+title                    : "Home Page"
 title_separator          : ""
 name                     : &name "Jing Zhao"
 description              : &description "Jing Zhao's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "favicon.png"
   name             : "Jing Zhao"
   pronouns         : # example: "she/her"  
-  bio              : "Data Science Manager @ Dave"
+  bio              : "Senior Manager, Machine Learning @ Dave"
   location         : "Suwanee, GA"
   employer         : 
   uri              : # URL

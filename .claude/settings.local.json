@@ -1,0 +1,28 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ruby --version)",
+      "Bash(gem --version)",
+      "Bash(bundle --version)",
+      "Bash(brew list:*)",
+      "Read(//usr/local/opt/ruby/bin/**)",
+      "Read(//opt/homebrew/opt/ruby/bin/**)",
+      "Bash(echo \"exit: $?\")",
+      "Bash(rbenv install:*)",
+      "Bash(ruby-install --list)",
+      "Bash(ruby-build --definitions)",
+      "Bash(brew install:*)",
+      "Bash(ln -sf /usr/local/opt/ruby@3.3 ~/.rbenv/versions/3.3.11)",
+      "Bash(rbenv versions:*)",
+      "Bash(rbenv exec:*)",
+      "Bash(for f:*)",
+      "Bash(do echo:*)",
+      "Read(//Users/jingzhaoestel/Desktop/jzhao16.github.io/**)",
+      "Bash(done)",
+      "Bash(pkill -f \"jekyll serve\")",
+      "Bash(bundle exec:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
+    ]
+  }
+}
