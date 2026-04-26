@@ -9,14 +9,12 @@ redirect_from:
 ---
 {% include base_path %}
 
-<div align="justify">
-Data science, data engineering, and software development professional with 8+ years of experience in cloud-based SaaS environments. Extensive research and development experience in applying machine learning, deep learning, and reinforcement learning models to solve real-world problems in search and recommendation, fraud detection, and credit risk assessment. Proven ability to work in big data ecosystems and cloud infrastructure to deliver scalable and reliable solutions.
-</div>
+Machine learning and data leader with deep experience building cloud-native platforms in fintech. I drive end-to-end ML and data strategy across the credit lifecycle, accelerating teams and products by embedding AI- and LLM-powered tooling and service integrations into modeling, analytics, and product workflows. Core focus areas:
 
-* **Programming Languages**: Python, Scala, Java, R, SQL, Linux Shell Scripting.
-* **Data Science & ML Platform**: Numpy, Pandas, PyTorch, Scikit-Learn, H2O.ai, Vertex AI.
-* **Big Data & Cloud Platform**: AWS EMR, GCP DataFlow, Apache Spark, Snowpark
-* **Workflow Orchestrator**: Airflow, Oozie, DBT, MLflow.
+- Cash-flow underwriting and short-term lending credit risk.
+- Intelligent cash-flow time series forecasting on open-banking data.
+- Optimized collections and payment services for higher recovery and lower friction.
+- Fraud-risk detection across the customer and transaction lifecycle.
 
 <!--
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
