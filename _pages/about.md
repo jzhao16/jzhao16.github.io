@@ -9,7 +9,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-Machine learning and data leader with deep experience building cloud-native platforms in fintech. I drive end-to-end ML and data strategy across the credit lifecycle, accelerating teams and products by embedding AI- and LLM-powered tooling and service integrations into modeling, analytics, and product workflows. Core focus areas:
+Machine learning and data leader with deep experience building cloud-native fintech platforms. Drives end-to-end ML and data strategy across the credit lifecycle, with a core focus on short-term credit underwriting and quantitative portfolio strategy at a quarterly billion-dollar scale. Accelerates teams and products by embedding AI- and LLM-powered tooling and service integrations directly into modeling, analytics, and product workflows.
 
 - Cash-flow underwriting and short-term lending credit risk.
 - Intelligent cash-flow time series forecasting on open-banking data.
